@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "vhjOOdAFh9ibw9kQWdBlyZ+dHduAGHpkPT/6iQdJjEtAc0c7eDdZ+6MNFQhz5KeVmomgfGZaredqdURL7f776g==",
+  "dgSpecHash": "SIf06Lvmb0C0TdhVTEuQ38ynHUhPY1wqleAimqly+qnmHTtL+4kFSI+xcdByTweccoSmzfDV9DyWdMSircNoRQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ryker\\OneDrive\\Desktop\\fall-2022\\greed\\greed.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Ryker\\OneDrive\\Desktop\\fall-2022\\greed\\CSE-210-Greed.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ryker\\.nuget\\packages\\raylib-cs\\4.0.0.1\\raylib-cs.4.0.0.1.nupkg.sha512",
+    "C:\\Users\\Ryker\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
